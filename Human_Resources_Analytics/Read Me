@@ -13,7 +13,7 @@ O trabalho consiste em conhecer e resolver o problema de evasão dos funcionári
 
 A máquina preditiva resolveu com 76% de certeza esse problema usando a biblioteca Pycaret do Python para descobrir a opção mais performática do que outras e publicar com o serviço Streamlit.
 
-Este trabalho foi emulado para criar o ecossistema completo que o cientista de dados trabalha todos os dias, incluindo criação de conjuntos de dados, descoberta/criação de insights e configurações de pilha.
+Este trabalho foi emulado para criar o ecossistema completo que o cientista de dados trabalha todos os dias, incluindo criação de conjuntos de dados, descoberta/criação de insights e configurações de ferramentas.
 
 ***
 
@@ -32,4 +32,4 @@ The job consist to know and resolve the issue for employees evasion and the choo
 
 The predictive machine resolved with 76% certainly that issue using the Python's Pycaret biblioteca to discover the most performatic option to than others and publish with Streamlit service.
 
-This job was emulated to create the complete ecossistem that the data scientist work every day, including dataset creation, insights discover/creation and  stack configurations.
+This job was emulated to create the complete ecossistem that the data scientist work every day, including dataset creation, insights discover/creation and tools configurations.
