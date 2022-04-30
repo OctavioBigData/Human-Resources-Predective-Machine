@@ -42,3 +42,4 @@ The predictive machine resolved with 76% certainly that issue using the Python's
 
 This job was emulated to create the complete ecossistem that the data scientist work every day, including dataset creation, insights discover/creation and tools configurations.
 
+<img alt="Github repo size" src="https://img.shields.io/github/repo-size/OctavioBigData/Human-Resources-Predective-Machine?style=plastic">
