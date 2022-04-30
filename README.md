@@ -1,10 +1,23 @@
 # Repo
 
+### Idioma PT/BR
+
+Oi, pessoal!
+
+Colocarei aqui todos os arquivos possíveis sobre projetos Full Stack Data Science (Data Engineering, Data Science, Data Analytics, Data Storytelling e outros) que tenho participação.
+
+Até agora tenho:
+
+
+### Language EN
+
 Hi guys!
 
 Here I'll put all files that possible about Full Stack Data Science (Data Engineering, Data Science, Data Analytics, Data Storytelling and others) projects that I have participation.
 
 Until now I have:
+
+----------------------------------------------
 
 ### Idioma PT/BR
 
@@ -23,7 +36,6 @@ A máquina preditiva resolveu com 76% de certeza esse problema usando a bibliote
 
 Este trabalho foi emulado para criar o ecossistema completo que o cientista de dados trabalha todos os dias, incluindo criação de conjuntos de dados, descoberta/criação de insights e configurações de ferramentas.
 
-***
 
 ### Language EN
 
